@@ -1,4 +1,4 @@
-# 🌱 CROPIQ — IoT-Based Smart Agriculture Monitoring System
+# 🌱 FarmSense — IoT-Based Smart Agriculture Monitoring System
 
 A real-time crop monitoring system built with ESP32, Python/Flask, MySQL, and Flutter. Automatically monitors soil moisture, temperature, humidity, and light — and controls a water pump based on live sensor data.
 
